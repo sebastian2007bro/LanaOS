@@ -1,2 +1,2 @@
-# Project-Anna
-This Project is based on Sebs SW CV
+# LanaOS
+This Project is based on SCSW 1.2
